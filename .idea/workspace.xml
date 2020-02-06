@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c82f030f-e8dd-4fb9-a9df-1b0e5fe91913" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VFUHkQnkyZVRfmVrVfInp0IEXR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="swTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="swTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountControllerTest.t2acceptFriendRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="swTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountControllerTest" />
+      <option name="METHOD_NAME" value="t2acceptFriendRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountControllerTest.t3acceptFriendRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="swTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountControllerTest" />
+      <option name="METHOD_NAME" value="t3acceptFriendRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountControllerTest.t4sendFriendRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="swTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountControllerTest" />
+      <option name="METHOD_NAME" value="t4sendFriendRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.AccountControllerTest" />
+        <item itemvalue="JUnit.AccountControllerTest.t2acceptFriendRequest" />
+        <item itemvalue="JUnit.AccountControllerTest.t3acceptFriendRequest" />
+        <item itemvalue="JUnit.AccountControllerTest.t4sendFriendRequest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c82f030f-e8dd-4fb9-a9df-1b0e5fe91913" name="Default Changelist" comment="" />
+      <created>1576848250378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576848250378</updated>
+      <workItem from="1576848255690" duration="1686000" />
+      <workItem from="1576852430106" duration="565000" />
+      <workItem from="1576853017263" duration="24792000" />
+      <workItem from="1576919314097" duration="9337000" />
+      <workItem from="1577061941850" duration="717000" />
+      <workItem from="1577364240377" duration="17567000" />
+      <workItem from="1577454112635" duration="2742000" />
+      <workItem from="1577457997360" duration="949000" />
+      <workItem from="1577490525504" duration="14607000" />
+      <workItem from="1577532292259" duration="13579000" />
+      <workItem from="1577556797764" duration="2184000" />
+      <workItem from="1581001308158" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1577456652671">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="519" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/57.27.1309.741@57.27.1309.741" timestamp="1577456652671" />
+    <state x="552" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577454145372">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="552" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/57.27.1309.741@57.27.1309.741" timestamp="1577454145372" />
+    <state x="464" y="282" width="484" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576917347145">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="464" y="282" width="484" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/57.27.1309.741@57.27.1309.741" timestamp="1576917347145" />
+    <state x="712" y="277" width="643" height="239" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576912683384">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="712" y="277" width="643" height="239" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/57.27.1309.741@57.27.1309.741" timestamp="1576912683384" />
+    <state x="480" y="126" width="452" height="543" key="FileChooserDialogImpl" timestamp="1577459775195">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="480" y="126" width="452" height="543" key="FileChooserDialogImpl/57.27.1309.741@57.27.1309.741" timestamp="1577459775195" />
+    <state width="1263" height="175" key="GridCell.Tab.0.bottom" timestamp="1577459819561">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="175" key="GridCell.Tab.0.bottom/57.27.1309.741@57.27.1309.741" timestamp="1577459819561" />
+    <state width="1263" height="175" key="GridCell.Tab.0.center" timestamp="1577459819560">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="175" key="GridCell.Tab.0.center/57.27.1309.741@57.27.1309.741" timestamp="1577459819560" />
+    <state width="1263" height="175" key="GridCell.Tab.0.left" timestamp="1577459819559">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="175" key="GridCell.Tab.0.left/57.27.1309.741@57.27.1309.741" timestamp="1577459819559" />
+    <state width="1263" height="175" key="GridCell.Tab.0.right" timestamp="1577459819560">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="175" key="GridCell.Tab.0.right/57.27.1309.741@57.27.1309.741" timestamp="1577459819560" />
+    <state x="200" y="33" key="SettingsEditor" timestamp="1576921114124">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="200" y="33" key="SettingsEditor/57.27.1309.741@57.27.1309.741" timestamp="1576921114124" />
+    <state x="383" y="292" width="646" height="209" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577457783272">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="383" y="292" width="646" height="209" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/57.27.1309.741@57.27.1309.741" timestamp="1577457783272" />
+    <state x="189" y="120" width="100" height="100" key="net.trustx.simpleuml.components.BirdViewFrame" timestamp="1576852303171">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="189" y="120" width="100" height="100" key="net.trustx.simpleuml.components.BirdViewFrame/57.27.1309.741@57.27.1309.741" timestamp="1576852303171" />
+    <state x="374" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576863065705">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="374" y="89" width="672" height="678" key="search.everywhere.popup/57.27.1309.741@57.27.1309.741" timestamp="1576863065705" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../aa.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

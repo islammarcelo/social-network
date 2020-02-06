@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1447.0" y="1461.0">Hashtag</node>
+    <node x="262.25" y="0.0">Account</node>
+    <node x="410.0" y="1461.0">PostController</node>
+    <node x="318.0" y="1173.0">Group</node>
+    <node x="614.0" y="1173.0">Ad</node>
+    <node x="1017.0" y="1461.0">MessageController</node>
+    <node x="1370.0" y="1173.0">Message</node>
+    <node x="468.0" y="889.0">PremiumAccount</node>
+    <node x="0.0" y="1461.0">GroupController</node>
+    <node x="0.0" y="1173.0">Post</node>
+    <node x="841.0" y="1173.0">Page</node>
+    <node x="0.0" y="959.0">NormalAccount</node>
+    <node x="1110.0" y="1173.0">CreditCard</node>
+    <node x="747.0" y="1461.0">PageController</node>
+    <node x="972.0" y="0.0">DatabaseHandler</node>
+    <node x="1393.0" y="0.0">AccountController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="NormalAccount" target="Account">
+      <point x="0.0" y="-49.5" />
+      <point x="224.0" y="864.0" />
+      <point x="361.5" y="864.0" />
+      <point x="-99.25" y="419.5" />
+    </edge>
+    <edge source="PremiumAccount" target="Account">
+      <point x="0.0" y="-119.5" />
+      <point x="697.5" y="864.0" />
+      <point x="560.0" y="864.0" />
+      <point x="99.25" y="419.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.25765189584285064" x="1487.848404255319" y="1074.5" />
+  <SelectedNodes>
+    <node>MessageController</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
